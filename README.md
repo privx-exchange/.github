@@ -1,1 +1,7 @@
-# .github
+Privx is a zkp-based decentralized order book service on Aleo platfrom & Aleo's premier privacy-enabled order book DEX. Comparing to previous works on other platforms, Privx aims to provide better user privacy protection.
+
+PrivX is a cutting-edge, decentralized platform that values user privacy. With no KYC or account verification necessity, users can seamlessly use Web3 wallets to log in and access our services. Users can trade confidently on PrivX exchange without the need to disclose personal information. Our platform empowers users with the option to conceal their identity and transaction details, ensuring utmost privacy.
+
+Privx do not hold assets and grants users full control of crypto investments. Users are free from the risk of asset freezing. User can also enjoy predictably low gas costs on the Aleo network, effectively avoiding the high gas fee scenarios comparing to other platforms.
+
+PrivX leverages Aleo's ZEXE protocol to fulfill two primary objectives: efficient validation and user privacy protection. The efficient validation mechanism employs off-chain computing techniques to verify transactions on-chain, thereby enhancing the system's overall performance. Moreover, PrivX's cutting-edge technology offers selective privacy protection for users and transaction data, surpassing the capabilities of ZCash's privacy protocols. Moving forward, PrivX plans to incorporate zkCloud's off-chain and trustless computing, facilitating contract computations off-chain and generating proofs on-chain. This strategy will optimize computing performance and strengthen security measures while preserving user privacy.
